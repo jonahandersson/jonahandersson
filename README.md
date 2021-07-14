@@ -1,5 +1,5 @@
-<h1 align="center">Hi, Hej, Kumusta! 👋, I'm Jonah Andersson from Sweden</h1>
-<h3 align="center">Microsoft MVP for Azure | Software Engineer| Certified Azure Developer |Tech Mentor | Blogger</h3>
+<h1 align="center">Hi, Hej, Kumusta! 👋 I'm Jonah Andersson from Sweden</h1>
+<h3 align="center">I am a Microsoft MVP for Azure | Software Engineer| Certified Azure Developer | Tech Mentor | Blogger</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonahandersson&label=Profile%20views&color=0e75b6&style=flat" alt="jonahandersson" /> </p>
 
