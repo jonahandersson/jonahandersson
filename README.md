@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonahandersson&label=Profile%20views&color=0e75b6&style=flat" alt="jonahandersson" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonahandersson" alt="jonahandersson" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p>
 
-- 👯 I’m looking to collaborate on **anything about software engineering and cloud engineering with cloud!**
+- 🔭 I’m currently working on **different projects**
 
-- 🤝 I’m looking for help with **pair programming with Azure and mentoring**
+- 🌱 I’m currently learning **.NET 5, Blazor, Microsoft Azure technologies, etc.**
+
+- 👯 I’m looking to collaborate on **anything about software engineering, cloud engineering with cloud, public speaking, mentoring**
 
 - 👨‍💻 All of my projects are available at [https://www.jonahandersson.tech](https://www.jonahandersson.tech)
 
@@ -42,3 +42,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonahandersson&show_icons=true&locale=en&layout=compact" alt="jonahandersson" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahandersson&show_icons=true&locale=en" alt="jonahandersson" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonahandersson" alt="jonahandersson" /></a> </p>
