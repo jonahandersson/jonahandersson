@@ -1,43 +1,18 @@
 <h1 align="center">Hi, Hej, Kumusta! 👋 I'm Jonah Andersson</h1>
 <h3 align="center">I am a Microsoft MVP for Azure, Software Engineer, Certified Azure Developer, <br> Tech Mentor, Public Speaker, Author, Blogger</h3>
 <h5 align="center">Genuine, Humble, Sincere </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonahandersson&label=Profile%20views&color=0e75b6&style=flat" alt="jonahandersson" /> </p>
 
 <p align="left"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p>
 
 - 🔭 I’m currently working on **different projects**
-
 - 🌱 I’m currently learning **.NET 5, Blazor, Microsoft Azure technologies, etc.**
-
 - 👯 I’m looking to collaborate on **anything about software engineering, cloud engineering with Microsoft Azure, public speaking, mentoring in tech, gender & diversity in tech**
-
 - 📝 I regularly write articles on [https://www.jonahandersson.tech/blog](https://www.jonahandersson.tech)
-
 - 💬 Ask me about **C#,.NET,Microsoft Azure, Mentoring, Blogging, Fullstack Development, SQL, Agile System Development**
-
 - 📫 How to reach me **jonah@jonahandersson.tech** or DM on Twitter
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/jonahandersson/](https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/)
 
 - ⚡ Fun fact **I have a lot of hobbies! :)**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<ul>
-  <li> <a href="https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/" target="blank">How I Passed Microsoft Certification AZ 204 Azure Developer Associate Exam</a>    </li>
-      <li> <a href="https://jonahandersson.tech/microsoft-mvp-award-passed-azure-certifications-and-personal-reflections-of-half-year-2021/" target="blank">Microsoft MVP Award, Passed Azure Certifications and Personal Reflections of Half Year 2021</a> </li>
-    <li> <a href="https://jonahandersson.tech/deep-reflective-overview-of-my-7-microsoft-azure-tech-talks-in-april-2021/" target="blank">Deep Reflective Overview of My 7 Microsoft Azure Tech Talks in April 2021</a> </li>
-      <li> <a href="https://www.ulap.org/jonah-anderssons-inspiring-tech-story-and-her-continuous-learning-continuous-development-cl-cd-with-microsoft-azure/" target="blank">Jonah Andersson’s Inspiring Tech Story and Her Continuous Learning/ Continuous Development (CL/CD) with Microsoft Azure</a> </li>
-       <li> <a href="https://jonahandersson.tech/azure-mask-chrome-plugin-hide-sensitive-azure-subscription-ids-during-public-demos-my-review/" target="blank">Azure Mask Plugin: Hide Sensitive Azure Subscription IDs During Public Demos (My Review)</a> </li>
-      <li> <a href="https://jonahandersson.tech/azure-dns-how-to-create-dns-zone-and-record-set/" target="blank">Azure DNS – What is DNS and How to Create Azure DNS Zone and Record Sets</a> </li>
-    <li> <a href="https://jonahandersson.tech/azure-service-bus-a-technical-overview/" target="blank">Azure Service Bus – A Brief Technical Overview</a> </li>
-    <li> <a href="https://dev.to/jonahandersson/how-to-deploy-containers-in-microsoft-azure-container-instances-4nab" target="blank">How to Deploy and Run Containers Using Microsoft Azure Container Instances</a> </li>
-     <li> <a href="https://dev.to/jonahandersson/azure-durable-functions-developing-serverless-stateful-workflow-4787" target="blank">Azure Durable Functions - Developing Serverless Stateful Workflow</a> </li>
-     <li> <a href="https://dev.to/jonahandersson/virtualization-and-deploying-azure-virtual-machines-using-powershell-1l83" target="blank">Virtualization and Deploying Azure Virtual Machines Using Powershell</a> </li>
-      <li> <a href="https://medium.com/@jonah.andersson/continuous-learning-an-integral-part-of-a-programmers-development-42dc02d36c88" target="blank">Continuous Learning — An Integral Part of A Programmer’s Development</a> </li>
-        <li> <a href="https://dev.to/jonahandersson/azure-mobile-app-microsoft-azure-administration-on-the-go-m14" target="blank">Azure Mobile App - Microsoft Azure Administration on the Go!</a> </li>
- <ul>
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -70,7 +45,28 @@
      <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerlearner.jpg" alt="jonahandersson" width="150" height="150"/></a>  
 
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonahandersson&show_icons=true&locale=en&layout=compact" alt="jonahandersson" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonahandersson&show_icons=true&locale=en&layout=compact" alt="jonahandersson" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahandersson&show_icons=true&locale=en" alt="jonahandersson" /></p>
 <br>
+
+  
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<ul>
+  <li> <a href="https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/" target="blank">How I Passed Microsoft Certification AZ 204 Azure Developer Associate Exam</a>    </li>
+      <li> <a href="https://jonahandersson.tech/microsoft-mvp-award-passed-azure-certifications-and-personal-reflections-of-half-year-2021/" target="blank">Microsoft MVP Award, Passed Azure Certifications and Personal Reflections of Half Year 2021</a> </li>
+    <li> <a href="https://jonahandersson.tech/deep-reflective-overview-of-my-7-microsoft-azure-tech-talks-in-april-2021/" target="blank">Deep Reflective Overview of My 7 Microsoft Azure Tech Talks in April 2021</a> </li>
+      <li> <a href="https://www.ulap.org/jonah-anderssons-inspiring-tech-story-and-her-continuous-learning-continuous-development-cl-cd-with-microsoft-azure/" target="blank">Jonah Andersson’s Inspiring Tech Story and Her Continuous Learning/ Continuous Development (CL/CD) with Microsoft Azure</a> </li>
+       <li> <a href="https://jonahandersson.tech/azure-mask-chrome-plugin-hide-sensitive-azure-subscription-ids-during-public-demos-my-review/" target="blank">Azure Mask Plugin: Hide Sensitive Azure Subscription IDs During Public Demos (My Review)</a> </li>
+      <li> <a href="https://jonahandersson.tech/azure-dns-how-to-create-dns-zone-and-record-set/" target="blank">Azure DNS – What is DNS and How to Create Azure DNS Zone and Record Sets</a> </li>
+    <li> <a href="https://jonahandersson.tech/azure-service-bus-a-technical-overview/" target="blank">Azure Service Bus – A Brief Technical Overview</a> </li>
+    <li> <a href="https://dev.to/jonahandersson/how-to-deploy-containers-in-microsoft-azure-container-instances-4nab" target="blank">How to Deploy and Run Containers Using Microsoft Azure Container Instances</a> </li>
+     <li> <a href="https://dev.to/jonahandersson/azure-durable-functions-developing-serverless-stateful-workflow-4787" target="blank">Azure Durable Functions - Developing Serverless Stateful Workflow</a> </li>
+     <li> <a href="https://dev.to/jonahandersson/virtualization-and-deploying-azure-virtual-machines-using-powershell-1l83" target="blank">Virtualization and Deploying Azure Virtual Machines Using Powershell</a> </li>
+      <li> <a href="https://medium.com/@jonah.andersson/continuous-learning-an-integral-part-of-a-programmers-development-42dc02d36c88" target="blank">Continuous Learning — An Integral Part of A Programmer’s Development</a> </li>
+        <li> <a href="https://dev.to/jonahandersson/azure-mobile-app-microsoft-azure-administration-on-the-go-m14" target="blank">Azure Mobile App - Microsoft Azure Administration on the Go!</a> </li>
+ <ul>
+<!-- BLOG-POST-LIST:END -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonahandersson&label=Profile%20views&color=0e75b6&style=flat" alt="jonahandersson" /> </p>
