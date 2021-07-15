@@ -2,7 +2,7 @@
 <h3 align="center">I am a Microsoft MVP for Azure, Software Engineer, Certified Azure Developer, <br> Tech Mentor, Public Speaker, Author, Blogger</h3>
 <h5 align="center">Genuine, Humble, Sincere </h5>
 
-<p align="left"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p>
+<p align="right"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p>
 
 - 🔭 I’m currently working on **different projects**
 - 🌱 I’m currently learning **.NET 5, Blazor, Microsoft Azure technologies, etc.**
