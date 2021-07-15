@@ -68,5 +68,5 @@
         <li> <a href="https://dev.to/jonahandersson/azure-mobile-app-microsoft-azure-administration-on-the-go-m14" target="blank">Azure Mobile App - Microsoft Azure Administration on the Go!</a> </li>
  <ul>
 <!-- BLOG-POST-LIST:END -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonahandersson&label=Profile%20views&color=0e75b6&style=flat" alt="jonahandersson" /> </p>
+<br>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jonahandersson&label=Profile%20views&color=0e75b6&style=flat" alt="jonahandersson" /> </p>
