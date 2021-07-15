@@ -4,7 +4,7 @@
 
 <p align="right"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p>
 
-- 🔭 I’m currently working on **different projects**
+- 🔭 I’m currently working on **different projects** and writing a book about Microsoft Azure! 
 - 🌱 I’m currently learning **.NET 5, Blazor, Microsoft Azure technologies, etc.**
 - 👯 I’m looking to collaborate on **anything about software engineering, cloud engineering with Microsoft Azure, public speaking, mentoring in tech, gender & diversity in tech**
 - 📝 I regularly write articles on [https://www.jonahandersson.tech/blog](https://www.jonahandersson.tech)
