@@ -47,10 +47,8 @@
        <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgermentor.jpg" alt="jonahandersson" width="150" height="150"/></a>  
    <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerkudos.jpg" alt="jonahandersson" width="150" height="150"/></a>
      <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerlearner.jpg" alt="jonahandersson" width="150" height="150"/></a>  
-
-  
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonahandersson&show_icons=true&locale=en&layout=compact" alt="jonahandersson" /></p>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahandersson&show_icons=true&locale=en" alt="jonahandersson" /></p>
 <br>
 
