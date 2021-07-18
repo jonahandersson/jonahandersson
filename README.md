@@ -1,6 +1,6 @@
 <h1 align="center">Hi, Hej, Kumusta! 👋 I'm Jonah Andersson</h1>
 <h3 align="center">I am a Microsoft MVP for Azure, Software Engineer, Certified Azure Developer, <br> Tech Mentor, Public Speaker, Author, Blogger</h3>
-<h5 align="center">Genuine, Humble, Sincere </h5>
+<h5 align="center">Genuine, Humble, Brave, Sincere </h5>
 
 <p align="right"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p>
 
