@@ -13,7 +13,7 @@
 - 📫 How to reach me **jonah@jonahandersson.tech** or DM on [Twitter](https://www.twitter.com/cjkodare)
 - 📄 Know about my experiences [https://www.linkedin.com/in/jonahandersson/](https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/)
 
-- ⚡ Fun fact **I have a lot of hobbies! :)**
+- ⚡ Fun fact: I have a lot of hobbies and I've had braces as an adult for 4 years! :) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,6 +34,11 @@
   
 <br>
   
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonahandersson&show_icons=true&locale=en&layout=compact" alt="jonahandersson" />
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahandersson&show_icons=true&locale=en" alt="jonahandersson" /></p>  --->
+<br>
+  
+  
 <h3 align="left">Awards and Certifications</h3>
 <p align="left">
 <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-fundamentals-JonahAndersson-150x150.png" alt="jonahandersson" /></a>
@@ -48,13 +53,9 @@
        <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgermentor.jpg" alt="jonahandersson" width="150" height="150"/></a>  
    <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerkudos.jpg" alt="jonahandersson" width="150" height="150"/></a>
      <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerlearner.jpg" alt="jonahandersson" width="150" height="150"/></a>  
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonahandersson&show_icons=true&locale=en&layout=compact" alt="jonahandersson" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahandersson&show_icons=true&locale=en" alt="jonahandersson" /></p>
-<br>
 
-  
-### Blogs posts
+
+### Blogs posts  <br />
 <!-- BLOG-POST-LIST:START -->
 <ul>
   <li> <a href="https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/" target="blank">How I Passed Microsoft Certification AZ 204 Azure Developer Associate Exam</a>    </li>
