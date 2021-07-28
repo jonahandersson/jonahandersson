@@ -43,11 +43,11 @@
   
 <h3 align="left">Awards and Certifications</h3>
 <p align="left">
-<a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-fundamentals-JonahAndersson-150x150.png" alt="jonahandersson" /></a>
- <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/mvp-banner-min-300x121.png" alt="jonahandersson" /></a>
-   <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-developer-associate-JonahAndersson-150x150.png" alt="jonahandersson" /></a>
-     <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/CloudChampionBadge-150x150.png" alt="jonahandersson" /></a>
-      <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azdurablefunctionstorage.blob.core.windows.net/blogcontent/MCT-Microsoft_Certified_Trainer-150x150.png" width="150px" alt="jonahandersson" /></a>
+<a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-fundamentals-JonahAndersson-150x150.png" width="150px" alt="jonahandersson" /></a>
+ <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/mvp-banner-min-300x121.png" alt="jonahandersson" width="150px" /></a>
+   <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-developer-associate-JonahAndersson-150x150.png" width="150px" alt="jonahandersson" /></a>
+     <a href="https://www.jonahandersson.tech" width="150px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/CloudChampionBadge-150x150.png" width="150px" alt="jonahandersson" /></a>
+      <a href="https://www.jonahandersson.tech" width="150px" target="blank"><img align="center" src="https://azdurablefunctionstorage.blob.core.windows.net/blogcontent/MCT-Microsoft_Certified_Trainer-150x150.png" width="150px" alt="jonahandersson" /></a>
   <br>
   <h3 align="left">AzureHeroes Badges</h3>
 <p align="left">
