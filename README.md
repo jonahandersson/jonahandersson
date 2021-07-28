@@ -43,7 +43,7 @@
   
 <h3 align="left">Awards and Certifications</h3>
 <p align="left">
-<a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-fundamentals-JonahAndersson-150x150.png" width="150px" alt="jonahandersson" /></a>
+<a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://jatechsitestorage.blob.core.windows.net/public/azure-fundamentals-badge-transparent_150x150.png" width="150px" alt="jonahandersson" /></a>
  <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/mvp-banner-min-300x121.png" alt="jonahandersson" width="150px" /></a>
    <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-developer-associate-JonahAndersson-150x150.png" width="150px" alt="jonahandersson" /></a>
      <a href="https://www.jonahandersson.tech" width="150px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/CloudChampionBadge-150x150.png" width="150px" alt="jonahandersson" /></a>
