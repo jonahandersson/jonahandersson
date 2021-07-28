@@ -1,13 +1,15 @@
 <h1 align="center">Hi, Hej, Kumusta! 👋 I'm Jonah Andersson</h1>
 <h3 align="center">I am a Microsoft MVP for Azure, Software Engineer, Certified Azure Developer, Microsoft Certified Trainer <br> Tech Mentor, Public Speaker, Author, Blogger</h3>
 <h5 align="center">Genuine, Humble, Brave, Sincere </h5>
+<p align="center"> <a href="https://www.jonahandersson.tech" target="blank"><img src="https://jatechsitestorage.blob.core.windows.net/public/JonahAndersson_AzureFunctionsShirt.jpg" width="150px" alt="jonahandersson" /></a> </p>
+<p align="center"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p>
 
-<p align="right"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p>
-
-- 🔭 I’m currently working on **different projects** and writing a book about Microsoft Azure! 
-- 🌱 I’m currently learning **.NET 5, Blazor, Microsoft Azure technologies, etc.**
+- 🔭 I’m currently working on different projects - at work and for the community
+- 📖 I'm current writing a book about Microsoft Azure for Oreilly Media
+- 👯 I'm currently mentoring others and sharing knowledge 
+- 🌱 I’m currently learning **.NET 5, Blazor, Serverless with Azure Functions, Microsoft Azure technologies, etc.**
 - :woman_technologist: I'm the founder and one of the organizers of [Azure User Group Sundsvall Sweden](https://www.meetup.com/azureusergroupsundsvallsverige)
-- 👯 I’m looking to collaborate on **anything about software engineering, cloud engineering with Microsoft Azure, public speaking, mentoring in tech, gender & diversity in tech**
+- 👯 I’m looking to collaborate on **anything about software engineering, cloud engineering with Microsoft Azure, public speaking, serverless with Azure, mentoring in tech, gender & diversity in tech**
 - 📝 I regularly write articles on [https://www.jonahandersson.tech/blog](https://www.jonahandersson.tech)
 - 💬 Ask me about **C#,.NET,Microsoft Azure, Mentoring, Blogging, Fullstack Development, SQL, Agile System Development**
 - 📫 How to reach me **jonah@jonahandersson.tech** or DM on [Twitter](https://www.twitter.com/cjkodare)
@@ -45,7 +47,7 @@
  <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/mvp-banner-min-300x121.png" alt="jonahandersson" /></a>
    <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-developer-associate-JonahAndersson-150x150.png" alt="jonahandersson" /></a>
      <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/CloudChampionBadge-150x150.png" alt="jonahandersson" /></a>
-      <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azdurablefunctionstorage.blob.core.windows.net/blogcontent/MCT-Microsoft_Certified_Trainer-150x150.png" alt="jonahandersson" /></a>
+      <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azdurablefunctionstorage.blob.core.windows.net/blogcontent/MCT-Microsoft_Certified_Trainer-150x150.png" width="150px" alt="jonahandersson" /></a>
   <br>
   <h3 align="left">AzureHeroes Badges</h3>
 <p align="left">
