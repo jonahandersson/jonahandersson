@@ -4,9 +4,9 @@
 <p align="center"> <a href="https://www.jonahandersson.tech" target="blank"><img src="https://jatechsitestorage.blob.core.windows.net/public/JonahAndersson_AzureFunctionsShirt.jpg" width="150px" alt="jonahandersson" /></a> </p>
 <p align="center"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p>
 
-- 🔭 I’m currently working on different projects - at work and for the community
+- 🔭 I’m currently working on different projects - at work and for the online tech community
 - 📖 I'm current writing a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433)
-- 👯 I'm currently mentoring others via [SheSharp](https://www.shesharp.co/mentorship-program/), [Ulap.org](https://www.ulap.org/jonah-anderssons-inspiring-tech-story-and-her-continuous-learning-continuous-development-cl-cd-with-microsoft-azure/), [BitProject.org] (https://www.bitproject.org/serverless), Bron Innovation Guidance, and other private mentorship with other young women choosing a career in tech and software engineering! 
+- 👯 I'm currently mentoring others via [SheSharp](https://www.shesharp.co/mentorship-program/), [Ulap.org](https://www.ulap.org/jonah-anderssons-inspiring-tech-story-and-her-continuous-learning-continuous-development-cl-cd-with-microsoft-azure/), [BitProject.org](https://www.bitproject.org/serverless), DataTjej, Bron Innovation Guidance, and other private mentorship with other young women choosing a career in tech and software engineering! 
 - 🌱 I’m currently learning **.NET 5, Blazor, Serverless with Azure Functions, Microsoft Azure technologies, etc.**
 - :woman_technologist: I'm the founder and one of the organizers of [Azure User Group Sundsvall Sweden](https://www.meetup.com/azureusergroupsundsvallsverige)
 - 👯 I’m looking to collaborate on **anything about software engineering, cloud engineering with Microsoft Azure, public speaking, serverless with Azure, mentoring in tech, gender & diversity in tech**
