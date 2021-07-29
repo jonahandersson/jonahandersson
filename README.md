@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on different projects - at work and for the online tech community
 - 📖 I'm current writing a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433)
 - 👯 I'm currently mentoring others via [SheSharp](https://www.shesharp.co/mentorship-program/), [Ulap.org](https://www.ulap.org/jonah-anderssons-inspiring-tech-story-and-her-continuous-learning-continuous-development-cl-cd-with-microsoft-azure/), [BitProject.org](https://www.bitproject.org/serverless), DataTjej, Bron Innovation Guidance, and other private mentorship with other young women choosing a career in tech and software engineering! 
-- 🌱 I’m currently learning **.NET 5, Blazor, Serverless with Azure Functions, Microsoft Azure technologies, etc.**
+- 🌱 I’m currently learning **.NET 5, Blazor, Serverless with Azure Functions, Microsoft Azure technologies, and preparing for my next Microsoft Certification <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500?WT.mc_id=AZ-MVP-5004251" target="blank"> AZ-500 Microsoft Azure Security Technologies </a>, etc.**
 - :woman_technologist: I'm the founder and one of the organizers of [Azure User Group Sundsvall Sweden](https://www.meetup.com/azureusergroupsundsvallsverige)
 - 👯 I’m looking to collaborate on **anything about software engineering, cloud engineering with Microsoft Azure, public speaking, serverless with Azure, mentoring in tech, gender & diversity in tech**
 - 📝 I regularly write articles on [https://www.jonahandersson.tech](https://www.jonahandersson.tech)
@@ -15,7 +15,7 @@
 - 📫 How to reach me **jonah@jonahandersson.tech** or DM on [Twitter](https://www.twitter.com/cjkodare)
 - 📄 Know about my experiences [https://www.linkedin.com/in/jonahandersson/](https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/)
 
-- ⚡ Fun fact: I have a lot of hobbies and I've had braces as an adult for 4 years! :) 
+- ⚡ Interesting fact: I have a lot of hobbies. I've had braces as an adult for 4 years and I like DIY-projects! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
