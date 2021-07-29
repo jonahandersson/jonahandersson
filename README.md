@@ -43,26 +43,26 @@
   
 <h3 align="left">Awards and Certifications</h3>
 <p align="left">
-<a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://jatechsitestorage.blob.core.windows.net/public/azure-fundamentals-badge-transparent_150x150.png" width="150px" alt="jonahandersson" /></a>
- <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/mvp-banner-min-300x121.png" alt="jonahandersson" width="150px" /></a>
-   <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-developer-associate-JonahAndersson-150x150.png" width="150px" alt="jonahandersson" /></a>
-     <a href="https://www.jonahandersson.tech" width="150px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/CloudChampionBadge-150x150.png" width="150px" alt="jonahandersson" /></a>
-      <a href="https://www.jonahandersson.tech" width="150px" target="blank"><img align="center" src="https://azdurablefunctionstorage.blob.core.windows.net/blogcontent/MCT-Microsoft_Certified_Trainer-150x150.png" width="150px" alt="jonahandersson" /></a>
-        <a href="https://www.jonahandersson.tech" width="150px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/NordicWomenAwardsNominee.png" width="150px" alt="jonahandersson" /></a>
+<a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://jatechsitestorage.blob.core.windows.net/public/azure-fundamentals-badge-transparent_150x150.png" width="100px" alt="jonahandersson" /></a>
+ <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/mvp-banner-min-300x121.png" alt="jonahandersson" width="100px" /></a>
+   <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-developer-associate-JonahAndersson-150x150.png" width="100px" alt="jonahandersson" /></a>
+     <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/CloudChampionBadge-150x150.png" width="100px" alt="jonahandersson" /></a>
+      <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azdurablefunctionstorage.blob.core.windows.net/blogcontent/MCT-Microsoft_Certified_Trainer-150x150.png" width="100px" alt="jonahandersson" /></a>
+        <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/NordicWomenAwardsNominee.png" width="100px" alt="jonahandersson" /></a>
   <br>
   <h3 align="left">AzureHeroes Badges</h3>
 <p align="left">
-<a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgercontenthero.jpg" alt="jonahandersson" width="150" height="150"/></a>
- <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerinclusiveleader.jpg" alt="jonahandersson" width="150" height="150"/></a>
-       <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgermentor.jpg" alt="jonahandersson" width="150" height="150"/></a>  
-   <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerkudos.jpg" alt="jonahandersson" width="150" height="150"/></a>
-     <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerlearner.jpg" alt="jonahandersson" width="150" height="150"/></a>  
+<a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgercontenthero.jpg" alt="jonahandersson" width="100" height="100"/></a>
+ <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerinclusiveleader.jpg" alt="jonahandersson" width="100" height="100"/></a>
+       <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgermentor.jpg" alt="jonahandersson" width="100" height="100"/></a>  
+   <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerkudos.jpg" alt="jonahandersson" width="100" height="100"/></a>
+     <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerlearner.jpg" alt="jonahandersson" width="100" height="100"/></a>  
 
 
 ### Blogs posts  <br />
 <!-- BLOG-POST-LIST:START -->
 <ul>
-  <li> <a href="https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/" target="blank">How I Passed Microsoft Certification AZ 204 Azure Developer Associate Exam</a>    </li>
+  <li> <a href="https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/" target="blank">How I Passed Microsoft Certification AZ 204 Azure Developer Associate Exam</a> </li>
       <li> <a href="https://jonahandersson.tech/microsoft-mvp-award-passed-azure-certifications-and-personal-reflections-of-half-year-2021/" target="blank">Microsoft MVP Award, Passed Azure Certifications and Personal Reflections of Half Year 2021</a> </li>
     <li> <a href="https://jonahandersson.tech/deep-reflective-overview-of-my-7-microsoft-azure-tech-talks-in-april-2021/" target="blank">Deep Reflective Overview of My 7 Microsoft Azure Tech Talks in April 2021</a> </li>
       <li> <a href="https://www.ulap.org/jonah-anderssons-inspiring-tech-story-and-her-continuous-learning-continuous-development-cl-cd-with-microsoft-azure/" target="blank">Jonah Andersson’s Inspiring Tech Story and Her Continuous Learning/ Continuous Development (CL/CD) with Microsoft Azure</a> </li>
