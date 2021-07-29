@@ -38,16 +38,15 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonahandersson&show_icons=true&locale=en&layout=compact" alt="jonahandersson" />
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahandersson&show_icons=true&locale=en" alt="jonahandersson" /></p>  --->
-<br>
-  
+<br>  
   
 <h3 align="left">Awards and Certifications</h3>
 <p align="left">
-<a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://jatechsitestorage.blob.core.windows.net/public/azure-fundamentals-badge-transparent_150x150.png" width="100px" alt="jonahandersson" /></a>
- <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/mvp-banner-min-300x121.png" alt="jonahandersson" width="100px" /></a>
-   <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-developer-associate-JonahAndersson-150x150.png" width="100px" alt="jonahandersson" /></a>
-     <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/CloudChampionBadge-150x150.png" width="100px" alt="jonahandersson" /></a>
-      <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azdurablefunctionstorage.blob.core.windows.net/blogcontent/MCT-Microsoft_Certified_Trainer-150x150.png" width="100px" alt="jonahandersson" /></a>
+<a href="https://www.credly.com/badges/aba0a161-e5db-4212-aab9-724ffd5458ec" target="blank"><img align="center" src="https://jatechsitestorage.blob.core.windows.net/public/azure-fundamentals-badge-transparent_150x150.png" width="100px" alt="jonahandersson" /></a>
+ <a href="https://mvp.microsoft.com/en-us/PublicProfile/5004251?fullName=Jonah%20%20Andersson" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/mvp-banner-min-300x121.png" alt="jonahandersson" width="100px" /></a>
+   <a href="https://www.credly.com/badges/738932e0-fa15-48ea-bec3-ffa8207542e6" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-developer-associate-JonahAndersson-150x150.png" width="100px" alt="jonahandersson" /></a>
+     <a href="https://www.credential.net/profile/jonahandersson969104/wallet" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/CloudChampionBadge-150x150.png" width="100px" alt="jonahandersson" /></a>
+      <a href="https://www.credly.com/badges/0f71d089-af09-4b0b-adf3-8337d885aa97" width="100px" target="blank"><img align="center" src="https://azdurablefunctionstorage.blob.core.windows.net/blogcontent/MCT-Microsoft_Certified_Trainer-150x150.png" width="100px" alt="jonahandersson" /></a>
         <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/NordicWomenAwardsNominee.png" width="100px" alt="jonahandersson" /></a>
   <br>
   <h3 align="left">AzureHeroes Badges</h3>
