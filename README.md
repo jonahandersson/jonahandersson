@@ -52,14 +52,14 @@
   <br>
   <h3 align="left">AzureHeroes Badges</h3>
 <p align="left">
-<a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgercontenthero.jpg" alt="jonahandersson" width="100" height="100"/></a>
- <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerinclusiveleader.jpg" alt="jonahandersson" width="100" height="100"/></a>
-       <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgermentor.jpg" alt="jonahandersson" width="100" height="100"/></a>  
-   <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerkudos.jpg" alt="jonahandersson" width="100" height="100"/></a>
-     <a href="https://www.jonahandersson.tech" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerlearner.jpg" alt="jonahandersson" width="100" height="100"/></a>  
+<img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgercontenthero.jpg" alt="jonahandersson" width="100" height="100"/>
+<img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerinclusiveleader.jpg" alt="jonahandersson" width="100" height="100"/>
+<img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgermentor.jpg" alt="jonahandersson" width="100" height="100"/><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerkudos.jpg" alt="jonahandersson" width="100" height="100"/><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerlearner.jpg" alt="jonahandersson" width="100" height="100"/>
 
+<p>Learn more about <a href="https://www.microsoft.com/skills/azureheroes" target="blank">AzureHeroes</a> </p>
 
-### Blogs posts  <br />
+  <h3>Recent Blogs Posts </h3> 
+  <br>
 <!-- BLOG-POST-LIST:START -->
 <ul>
   <li> <a href="https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/" target="blank">How I Passed Microsoft Certification AZ 204 Azure Developer Associate Exam</a> </li>
