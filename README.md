@@ -15,8 +15,6 @@
 - 📫 How to reach me **jonah@jonahandersson.tech** or DM on [Twitter](https://www.twitter.com/cjkodare)
 - 📄 Know about my experiences [https://www.linkedin.com/in/jonahandersson/](https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/)
 
-- ⚡ Interesting fact: I have a lot of hobbies. I've had braces as an adult for 4 years and I like DIY-projects! 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jonahandersson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jonahandersson" height="30" width="40" /></a>
