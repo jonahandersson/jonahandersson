@@ -8,7 +8,7 @@
 - 📖 I'm current writing a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433)
 - 👯 I'm currently mentoring others via [SheSharp](https://www.shesharp.co/mentorship-program/), [Ulap.org](https://www.ulap.org/jonah-anderssons-inspiring-tech-story-and-her-continuous-learning-continuous-development-cl-cd-with-microsoft-azure/), [BitProject.org](https://www.bitproject.org/serverless), DataTjej, Bron Innovation Guidance, and other private mentorship with other young women choosing a career in tech and software engineering! 
 - 🌱 I’m currently learning **.NET 5, Blazor, Serverless with Azure Functions, Microsoft Azure technologies, and preparing for my next Microsoft Certification <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500?WT.mc_id=AZ-MVP-5004251" target="blank"> AZ-500 Microsoft Azure Security Technologies </a>, etc.**
-- :woman_technologist: I'm the founder and one of the organizers of [Azure User Group Sundsvall Sweden](https://www.meetup.com/azureusergroupsundsvallsverige)
+- :woman_technologist: I'm the founder and one of the organizers of [Azure User Group Sundsvall Sweden](https://www.meetup.com/azureusergroupsundsvallsverige). Check out our Bi-weekly live meetups and learn about Azure, cloud technologies and the community!
 - 👯 I’m looking to collaborate on **anything about software engineering, cloud engineering with Microsoft Azure, public speaking, serverless with Azure, mentoring in tech, gender & diversity in tech**
 - 📝 I regularly write articles on [https://www.jonahandersson.tech](https://www.jonahandersson.tech)
 - 💬 Ask me about **C#,.NET,Microsoft Azure, Mentoring, Blogging, Fullstack Development, SQL, Agile System Development**
@@ -24,7 +24,7 @@
 <a href="https://medium.com/@jonah.andersson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jonah.andersson" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technology, Programming Languages and Tools:</h3>
 
 <p align="left"> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank">
