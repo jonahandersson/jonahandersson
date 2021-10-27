@@ -1,7 +1,7 @@
 <h1 align="center">Hi, Hej, Kumusta! 👋 I'm Jonah</h1>
 <h3 align="center">I am a Microsoft MVP for Azure, Software Engineer, Certified Azure Developer, Microsoft Certified Trainer <br> Tech Mentor, Public Speaker, Author, Blogger</h3>
 <h5 align="center">Genuine, Humble, Brave, Sincere </h5>
-<p align="center"> <a href="https://www.jonahandersson.tech" target="blank"><img src="https://jatechsitestorage.blob.core.windows.net/public/JonahAndersson_AzureFunctionsShirt.jpg" width="150px" alt="jonahandersson" /></a> </p>
+<p align="center"> <a href="https://www.jonahandersson.tech" target="blank"><img src="https://jonahsstorage.blob.core.windows.net/jcaphotos/JonahAndersson_AzureFunctions.jpg" width="100px" alt="jonahandersson-azure-functions" /></a> </p>
 <p align="center"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p>
 
 - :woman_technologist: Currently employed as Software Engineer / IT Consultant at <a href="https://www.forefront.se" target="_blank">Forefront Consulting</a>
