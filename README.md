@@ -4,18 +4,22 @@
 <p align="center"> <a href="https://www.jonahandersson.tech" target="blank"><img src="https://jatechsitestorage.blob.core.windows.net/public/JonahAndersson_AzureFunctionsShirt.jpg" width="150px" alt="jonahandersson" /></a> </p>
 <p align="center"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p>
 
+- :woman_technologist: Currently employed as Software Engineer / IT Consultant at <a href="https://www.forefront.se" target="_blank">Forefront Consulting</a>
 - 🔭 I’m currently working on different projects - at work and for the online tech community
-- 📖 I'm current writing a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433)
-- 👯 I'm currently mentoring others via [SheSharp](https://www.shesharp.co/mentorship-program/), [Ulap.org](https://www.ulap.org/jonah-anderssons-inspiring-tech-story-and-her-continuous-learning-continuous-development-cl-cd-with-microsoft-azure/), [BitProject.org](https://www.bitproject.org/serverless), DataTjej, Bron Innovation Guidance, and other private mentorship with other young women choosing a career in tech and software engineering! 
-- 🌱 I’m currently learning **.NET 5, Blazor, Serverless with Azure Functions, Microsoft Azure technologies, and preparing for my next Microsoft Certification <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500?WT.mc_id=AZ-MVP-5004251" target="blank"> AZ-500 Microsoft Azure Security Technologies </a>, etc.**
-- :woman_technologist: I'm the founder and one of the organizers of [Azure User Group Sundsvall Sweden](https://www.meetup.com/azureusergroupsundsvallsverige). Check out our Bi-weekly live meetups and learn about Azure, cloud technologies and the community!
+- 📖 I'm writing a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433)
+- 👯 I inspire tech to others by mentoring others via [SheSharp](https://www.shesharp.co/mentorship-program/), [Ulap.org](https://www.ulap.org/jonah-anderssons-inspiring-tech-story-and-her-continuous-learning-continuous-development-cl-cd-with-microsoft-azure/), [BitProject.org](https://www.bitproject.org/serverless), DataTjej, Bron Innovation Guidance, and other private mentorship with other young women choosing a career in tech and software engineering! 
+- 🌱 I’m currently learning .NET 5, Blazor, Serverless with Azure Functions, Microsoft Azure technologies, and preparing for my next Microsoft Certification <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500?WT.mc_id=AZ-MVP-5004251" target="blank"> AZ-500 Microsoft Azure Security Technologies </a>, etc.**
+- :woman_technologist: I'm the founder, organizer, and community leader of [Azure User Group Sundsvall Sweden](https://www.meetup.com/azureusergroupsundsvallsverige). </br>
+Check out our Bi-weekly live meetups and learn about Azure, cloud technologies and the community!  </br>
+Our <a href="https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2021" target="_blank">Call for Speakers at Sessionize</a>. 
 - 👯 I’m looking to collaborate on **anything about software engineering, cloud engineering with Microsoft Azure, public speaking, serverless with Azure, mentoring in tech, gender & diversity in tech**
-- 📝 I regularly write articles on [https://www.jonahandersson.tech](https://www.jonahandersson.tech)
+- 📝 I write articles on [https://www.jonahandersson.tech](https://www.jonahandersson.tech)
+- 🎙️  I share knowledge about cloud computing and Azure through public speaking 
 - 💬 Ask me about **C#,.NET,Microsoft Azure, Mentoring, Blogging, Fullstack Development, SQL, Agile System Development**
-- 📫 How to reach me **jonah@jonahandersson.tech** or DM on [Twitter](https://www.twitter.com/cjkodare)
-- 📄 Know about my experiences [https://www.linkedin.com/in/jonahandersson/](https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/)
+- 📫 Reach me by e-mail  **jonah@jonahandersson.tech** or DM on [Twitter](https://www.twitter.com/cjkodare)
+- 📄 Know about my professional background on [https://www.linkedin.com/in/jonahandersson/](https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect!:</h3>
 <p align="left">
 <a href="https://dev.to/jonahandersson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jonahandersson" height="30" width="40" /></a>
 <a href="https://twitter.com/cjkodare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cjkodare" height="30" width="40" /></a>
@@ -46,6 +50,7 @@
      <a href="https://www.credential.net/profile/jonahandersson969104/wallet" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/CloudChampionBadge-150x150.png" width="100px" alt="jonahandersson" /></a>
       <a href="https://www.credly.com/badges/0f71d089-af09-4b0b-adf3-8337d885aa97" width="100px" target="blank"><img align="center" src="https://azdurablefunctionstorage.blob.core.windows.net/blogcontent/MCT-Microsoft_Certified_Trainer-150x150.png" width="100px" alt="jonahandersson" /></a>
         <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/NordicWomenAwardsNominee.png" width="100px" alt="jonahandersson" /></a>
+    <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/nordicwomenintechawards_rolemodel.png" width="100px" alt="jonahandersson-womenintech-role-model" /></a>
   <br>
   <h3 align="left">AzureHeroes Badges</h3>
 <p align="left">
