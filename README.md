@@ -44,7 +44,7 @@ Our <a href="https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2021" 
   
 <h3 align="left">Awards and Certifications</h3>
 <p align="left">
-<a href="https://www.credly.com/badges/aba0a161-e5db-4212-aab9-724ffd5458ec" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-fundamentals-badge-transparent-150x150.pngg" width="100px" alt="jonahandersson" /></a>
+<a href="https://www.credly.com/badges/aba0a161-e5db-4212-aab9-724ffd5458ec" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-fundamentals-badge-transparent-150x150.png" width="100px" alt="jonahandersson" /></a>
  <a href="https://mvp.microsoft.com/en-us/PublicProfile/5004251?fullName=Jonah%20%20Andersson" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/mvp-banner-min-300x121.png" alt="jonahandersson" width="100px" /></a>
    <a href="https://www.credly.com/badges/738932e0-fa15-48ea-bec3-ffa8207542e6" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-developer-associate-JonahAndersson-150x150.png" width="100px" alt="jonahandersson" /></a>
      <a href="https://www.credential.net/profile/jonahandersson969104/wallet" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/CloudChampionBadge-150x150.png" width="100px" alt="jonahandersson" /></a>
