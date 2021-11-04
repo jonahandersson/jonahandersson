@@ -15,8 +15,8 @@ Our <a href="https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2021" 
 - 👯 I’m looking to collaborate on **anything about software engineering, cloud engineering with Microsoft Azure, public speaking, serverless with Azure, mentoring in tech, gender & diversity in tech**
 - 📝 I write articles on [https://www.jonahandersson.tech](https://www.jonahandersson.tech)
 - 🎙️  I share knowledge about cloud computing and Azure through public speaking 
-- 💬 Ask me about **C#,.NET,Microsoft Azure, Mentoring, Blogging, Fullstack Development, SQL, Agile System Development**
-- 📫 Reach me by e-mail  **jonah@jonahandersson.tech** or DM on [Twitter](https://www.twitter.com/cjkodare)
+- 💬 Ask me about `C#,.NET,Microsoft Azure, Mentoring, Blogging, Fullstack Development, SQL, Agile System Development`
+- 📫 Reach me by <a href="mailto:jonah@jonahandersson.tech">e-mail</a> or DM on [Twitter](https://www.twitter.com/cjkodare)
 - 📄 Know about my professional background on [https://www.linkedin.com/in/jonahandersson/](https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/)
 
 <h3 align="left">Let's connect!:</h3>
