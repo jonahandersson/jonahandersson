@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Hej, Kumusta! 👋 I'm Jonah</h1>
-<h3 align="center">I am a Microsoft MVP for Azure, Software Engineer, Certified Azure Developer, Microsoft Certified Trainer <br> Tech Mentor, Public Speaker, Author, Blogger</h3>
+<h3 align="center">I am a Microsoft MVP for Azure, Software Engineer, Certified Azure Developer, Microsoft Certified Trainer <br> Tech Mentor, Public Speaker, Author, Blogger, Inclusive Community Leader </h3>
 <h5 align="center">Genuine, Humble, Brave, Sincere </h5>
 <p align="center"> <a href="https://www.jonahandersson.tech" target="blank"><img src="https://jonahsstorage.blob.core.windows.net/jcaphotos/JonahAndersson_AzureFunctions.jpg" width="100px" alt="jonahandersson-azure-functions" /></a> </p>
 <p align="center"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p>
@@ -43,15 +43,17 @@ Our <a href="https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2021" 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahandersson&show_icons=true&locale=en" alt="jonahandersson" /></p>  --->
 <br>  
   
-<h3 align="left">Awards and Certifications</h3>
+<h3 align="left">Awards, Recognitions and Certifications</h3>
 <p align="left">
-<a href="https://www.credly.com/badges/aba0a161-e5db-4212-aab9-724ffd5458ec" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-fundamentals-badge-transparent-150x150.png" width="100px" alt="jonahandersson" /></a>
+<a href="https://www.credly.com/earner/earned/badge/2ffe5864-edc2-4566-8bda-708931851a4c" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="100px" alt="jonahandersson" /></a>
+  <a href="https://www.credly.com/badges/aba0a161-e5db-4212-aab9-724ffd5458ec" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-fundamentals-badge-transparent-150x150.png" width="100px" alt="jonahandersson" /></a>
  <a href="https://mvp.microsoft.com/en-us/PublicProfile/5004251?fullName=Jonah%20%20Andersson" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/mvp-banner-min-300x121.png" alt="jonahandersson" width="100px" /></a>
    <a href="https://www.credly.com/badges/738932e0-fa15-48ea-bec3-ffa8207542e6" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-developer-associate-JonahAndersson-150x150.png" width="100px" alt="jonahandersson" /></a>
      <a href="https://www.credential.net/profile/jonahandersson969104/wallet" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/CloudChampionBadge-150x150.png" width="100px" alt="jonahandersson" /></a>
       <a href="https://www.credly.com/badges/0f71d089-af09-4b0b-adf3-8337d885aa97" width="100px" target="blank"><img align="center" src="https://azdurablefunctionstorage.blob.core.windows.net/blogcontent/MCT-Microsoft_Certified_Trainer-150x150.png" width="100px" alt="jonahandersson" /></a>
         <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/NordicWomenAwardsNominee.png" width="100px" alt="jonahandersson" /></a>
     <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/nordicwomenintechawards_rolemodel.png" width="100px" alt="jonahandersson-womenintech-role-model" /></a>
+      <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/c29c7aef-da17-43ca-8c35-2778df197480/Hack-credly-badges-600px-participant.png" width="100px" alt="jonahandersson-global-hackaton-participant-2022" /></a>
   <br>
   <h3 align="left">AzureHeroes Badges</h3>
 <p align="left">
