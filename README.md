@@ -60,6 +60,7 @@ Our <a href="https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2021" 
 <img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgercontenthero.jpg" alt="jonahandersson" width="100" height="100"/>
 <img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerinclusiveleader.jpg" alt="jonahandersson" width="100" height="100"/>
 <img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgermentor.jpg" alt="jonahandersson" width="100" height="100"/><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerkudos.jpg" alt="jonahandersson" width="100" height="100"/><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerlearner.jpg" alt="jonahandersson" width="100" height="100"/>
+  <img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/AzureHeroesCommunityHero.png" alt="jonahandersson" width="100" height="100"/>
 
 <p>Learn more about <a href="https://www.microsoft.com/skills/azureheroes" target="blank">AzureHeroes</a> </p>
 
