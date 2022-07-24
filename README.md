@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://www.jonahandersson.tech" target="blank"><img src="https://jonahsstorage.blob.core.windows.net/jcaphotos/JonahAndersson_AzureFunctions.jpg" width="100px" alt="jonahandersson-azure-functions" /></a> </p>
 <p align="center"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p>
 
-- :woman_technologist: Currently employed as Software Engineer / IT Consultant at <a href="https://www.forefront.se" target="_blank">Forefront Consulting</a>
+- :woman_technologist: Currently employed as Software Engineer and Cloud DevOps Engineer / IT Consultant at <a href="https://www.forefront.se" target="_blank">Forefront Consulting</a>
 - 🔭 I’m currently working on different projects - at work and for the online tech community
 - 📖 I'm writing a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433). <br>
 Check out the first "raw and unedited" early release of my book [Learning Microsoft Azure](https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/)
