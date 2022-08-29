@@ -53,7 +53,7 @@ Our <a href="https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2021" 
   <a href="https://www.credly.com/earner/earned/badge/2ffe5864-edc2-4566-8bda-708931851a4c" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="100px" alt="jonahandersson" /></a>
    <a href="https://www.credly.com/badges/738932e0-fa15-48ea-bec3-ffa8207542e6" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-developer-associate-JonahAndersson-150x150.png" width="100px" alt="jonahandersson" /></a>
     <a href="https://www.credly.com/earner/earned/badge/7bbcc2a4-9d87-4fff-83a3-4c25f9fd8ef3" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="jonahandersson" width="100px" /></a>
-    
+ </p> 
  <br>
   
   <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/NordicWomenAwardsNominee.png" width="100px" alt="jonahandersson" /></a>
