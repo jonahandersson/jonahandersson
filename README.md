@@ -1,3 +1,5 @@
+<div>
+
 <p align="center"> <a href="https://www.jonahandersson.tech" target="blank"><img src="https://jonahsstorage.blob.core.windows.net/jcaphotos/Jonah%20Andersson%20Banner.png" width="100%" alt="jonahandersson-cover-page" /></a> </p>
 <h1 align="center">Hi, Hej, Kumusta! 👋 I'm Jonah</h1>
 <h3 align="center">I am a Microsoft MVP for Azure, Software Engineer, Certified Azure Developer, Microsoft Certified Trainer <br> Tech Mentor, Public Speaker, Author, Blogger, Inclusive Community Leader </h3>
@@ -45,7 +47,17 @@ Our <a href="https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2021" 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonahandersson&show_icons=true&locale=en&layout=compact&theme=radical" alt="jonahandersson" />
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahandersson&show_icons=true&locale=en" alt="jonahandersson" /></p>  --->
 <br>  
-
+  
+<h3 align="left">Awards, Recognitions and Certifications</h3>
+<p align="left">
+<a href="https://www.credly.com/earner/earned/badge/2ffe5864-edc2-4566-8bda-708931851a4c" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="100px" alt="jonahandersson" /></a>
+  <a href="https://www.credly.com/badges/aba0a161-e5db-4212-aab9-724ffd5458ec" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-fundamentals-badge-transparent-150x150.png" width="100px" alt="jonahandersson" /></a>
+  <a href="https://www.credly.com/earner/earned/badge/2ffe5864-edc2-4566-8bda-708931851a4c" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="100px" alt="jonahandersson" /></a>
+   <a href="https://www.credly.com/badges/738932e0-fa15-48ea-bec3-ffa8207542e6" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-developer-associate-JonahAndersson-150x150.png" width="100px" alt="jonahandersson" /></a>
+    <a href="https://www.credly.com/earner/earned/badge/7bbcc2a4-9d87-4fff-83a3-4c25f9fd8ef3" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="jonahandersson" width="100px" /></a>
+    
+ <br>
+  
   <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/NordicWomenAwardsNominee.png" width="100px" alt="jonahandersson" /></a>
     <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/nordicwomenintechawards_rolemodel.png" width="100px" alt="jonahandersson-womenintech-role-model" /></a>
       <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/c29c7aef-da17-43ca-8c35-2778df197480/Hack-credly-badges-600px-participant.png" width="100px" alt="jonahandersson-global-hackaton-participant-2022" /></a>
@@ -61,6 +73,7 @@ Our <a href="https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2021" 
 <img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerinclusiveleader.jpg" alt="jonahandersson" width="100" height="100"/>
 <img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgermentor.jpg" alt="jonahandersson" width="100" height="100"/><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerkudos.jpg" alt="jonahandersson" width="100" height="100"/><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerlearner.jpg" alt="jonahandersson" width="100" height="100"/>
   <img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/AzureHeroesCommunityHero.png" alt="jonahandersson" width="100" height="100"/>
+  
   <p>Check out my other badges at <a href="https://www.azureheroes.community/user/15270" target="_blank">Azure Heroes Community Showcase - Jonah Andersson </a></p>
 <p>Learn more about <a href="https://www.microsoft.com/skills/azureheroes" target="blank">AzureHeroes</a> </p>
 
@@ -84,3 +97,4 @@ Our <a href="https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2021" 
 <!-- BLOG-POST-LIST:END -->
 <br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jonahandersson&label=Profile%20views&color=0e75b6&style=flat" alt="jonahandersson" /> </p>
+</div>
