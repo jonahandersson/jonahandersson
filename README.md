@@ -1,7 +1,7 @@
 <div>
 
 <p align="center"> <a href="https://www.jonahandersson.tech" target="blank"><img src="https://jonahsstorage.blob.core.windows.net/jcaphotos/Jonah%20Andersson%20Banner.png" width="100%" alt="jonahandersson-cover-page" /></a> </p>
-<h1 align="center">Hi, Hej, Kumusta! 👋 I'm Jonah</h1>
+<h1 align="center">Hi, Hej, Kumusta! 👋 I'm Jonah 😊</h1>
 <h4 align="center">I am a Microsoft MVP for Azure, Software Engineer, Certified Azure Developer, Microsoft Certified Trainer <br> Tech Mentor, Public Speaker, Author, Blogger, Inclusive Community Leader </h4>
 <h5 align="center">Genuine, Humble, Brave, Sincere </h5>
 
