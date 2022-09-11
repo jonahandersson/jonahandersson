@@ -77,7 +77,7 @@ Our <a href="https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2021" 
   <p>Check out my other badges at <a href="https://www.azureheroes.community/user/15270" target="_blank">Azure Heroes Community Showcase - Jonah Andersson </a></p>
 <p>Learn more about <a href="https://www.microsoft.com/skills/azureheroes" target="blank">AzureHeroes</a> </p>
 
-  <h3>Recent Blogs Posts </h3> 
+  <h3>Blogs Posts </h3> 
   <br>
 <!-- BLOG-POST-LIST:START -->
 <ul>
