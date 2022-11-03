@@ -1,12 +1,15 @@
 <div>
 
-<p align="center"> <a href="https://www.jonahandersson.tech" target="blank"><img src="https://jonahsstorage.blob.core.windows.net/jcaphotos/Jonah%20Andersson%20Banner.png" width="100%" alt="jonahandersson-cover-page" /></a> </p>
+<p align="center"> <a href="https://www.jonahandersson.tech" target="blank"><img src="https://jonahsstorage.blob.core.windows.net/jcaphotos/Jonah%20Andersson%20Banner.png" width="80%" alt="jonahandersson-cover-page" /></a> </p>
 <h1 align="center">Hi, Hej, Kumusta! 👋 I'm Jonah 😊</h1>
 <h4 align="center">I am a Microsoft MVP for Azure, Software Engineer, Certified Azure Developer, Microsoft Certified Trainer <br> Tech Mentor, Public Speaker, Author, Blogger, Inclusive Community Leader </h4>
 <h5 align="center">Genuine, Humble, Brave, Sincere </h5>
 
 <p align="center"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/jonahandersson/" target="blank"> <img src="https://user-images.githubusercontent.com/14919667/199814903-f6bedfe8-9c03-46b8-9abc-897a46645089.png" alt="Jonah Andersson on LinkedIn" /></a> </p>
 
+
+ 
 - :woman_technologist: Currently working as Senior IT Consultant with diverse tech roles as Software Engineer, Azure Developer and Cloud & DevOps Engineer in Sweden
 - 🔭 I’m currently working on different projects - at work, consulting job, and for the online tech community
 - 📖 I'm writing a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433). <br>
