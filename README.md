@@ -18,7 +18,7 @@ Check out the first "raw and unedited" early release of my book [Learning Micros
 - 🌱 I’m currently learning more about developing with .NET, Blazor, Serverless with Azure Functions, Microsoft Azure technologies, and preparing for my next Microsoft Certifications, <a href="https://docs.microsoft.com/en-us/certifications/exams/az-305" target="_blank">AZ-305 Designing Microsoft Azure Infrastructure Solutions </a>, <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500?WT.mc_id=AZ-MVP-5004251" target="blank"> AZ-500 Microsoft Azure Security Technologies </a>, etc. 
 - :woman_technologist: I'm the founder, organizer, and a community leader of [Azure User Group Sweden](https://www.meetup.com/azureusergroupsundsvallsverige). </br>
 Check out our Bi-weekly live meetups and learn about Azure, cloud technologies and the community!  </br>
-Our <a href="https://sessionize.com/azure-user-group-sundsvall-sweden-cfp-2021" target="_blank">Call for Speakers at Sessionize</a>. 
+Our <a href="[https://sessionize.com/azure-user-group-sweden-cfp](https://sessionize.com/azure-user-group-sweden-cfp)" target="_blank">Call for Speakers at Sessionize</a>. 
 - 👯 I’m looking to collaborate on **anything about software engineering, cloud engineering with Microsoft Azure, public speaking, serverless with Azure, mentoring in tech, gender & diversity in tech**
 - 📝 I write articles on [https://www.jonahandersson.tech](https://www.jonahandersson.tech)
 - 🎙️  I share knowledge about cloud computing and Azure through public speaking 
