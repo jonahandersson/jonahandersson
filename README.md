@@ -8,9 +8,8 @@
 <p align="center"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p>
 <p align="center"> <a href="https://www.linkedin.com/in/jonahandersson/" target="blank"> <img src="https://user-images.githubusercontent.com/14919667/199814903-f6bedfe8-9c03-46b8-9abc-897a46645089.png" alt="Jonah Andersson on LinkedIn" /></a> </p>
 
-
  
-- :woman_technologist: Currently working as Senior IT Consultant with diverse tech roles as Software Engineer, Azure Developer and Cloud & DevOps Engineer in Sweden
+- :woman_technologist: Currently working as Senior IT Consultant with diverse tech roles as Software Engineer, Azure Developer,  Cloud Infrastructure & DevOps Engineer in Sweden
 - 🔭 I’m currently working on different projects - at work, consulting job, and for the online tech community
 - 📖 I'm writing a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433). <br>
 Check out the first "raw and unedited" early release of my book [Learning Microsoft Azure](https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/)
@@ -25,6 +24,7 @@ Our <a href="[https://sessionize.com/azure-user-group-sweden-cfp](https://sessio
 - 💬 Ask me about programming in .NET, C#,Microsoft Azure, Mentoring, Blogging, Fullstack Development, DevOps Engineering, Infrastructure as Code (IaC), Agile System Development, starting up a community group, writing your first technical book, being resilient in life and being a woman in tech! 
 - 📫 Reach me by <a href="mailto:jonah@jonahandersson.tech">e-mail</a> or DM on [Twitter](https://www.twitter.com/cjkodare)
 - 📄 Know about my professional background on [https://www.linkedin.com/in/jonahandersson/](https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/)
+- 🎙️ Do you want me to speak at your conference, tech events or see my upcoming public speaking engagements? Check out my [Sessionize Speaker Profile](https://sessionize.com/jonah-andersson/)
 
 <h3 align="left">Let's connect!:</h3>
 <p align="left">
