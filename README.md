@@ -12,7 +12,7 @@
 
 
 - :woman_technologist: Currently working as Senior IT Consultant with diverse tech roles as Software Engineer, Azure Developer,  Cloud Infrastructure & DevOps Engineer in Sweden
-- 🔭 I’m currently working on different projects - at work, consulting job, and for the online tech community
+- 🔭 I’m currently working on different projects - at work, consulting job, my first tech book project, public speaking (Virtual and In-Person) and for the online tech community
 - 📖 I'm writing a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433). <br>
 Check out the first "raw and unedited" early release of my book [Learning Microsoft Azure](https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/)
 - 👯 I inspire tech to others by mentoring others via [SheSharp](https://www.shesharp.co/mentorship-program/), [Ulap.org](https://www.ulap.org/jonah-anderssons-inspiring-tech-story-and-her-continuous-learning-continuous-development-cl-cd-with-microsoft-azure/), [BitProject.org](https://www.bitproject.org/serverless), DataTjej, Bron Innovation Guidance, and other private mentorship with other young women choosing a career in tech and software engineering! 
