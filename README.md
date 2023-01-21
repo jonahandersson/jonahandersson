@@ -5,8 +5,9 @@
 <h4 align="center">I am a Microsoft MVP for Azure, Software Engineer/ Cloud Infrastructure & DevOps Engineer, Developer, Microsoft Certified Trainer <br> Tech Mentor, International Public Speaker, Author, Blogger, Inclusive Community Leader </h4>
 <h5 align="center">Genuine, Humble, Brave, Sincere </h5>
 
-<p align="center"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://img.shields.io/twitter/follow/cjkodare?logo=twitter&style=for-the-badge" alt="cjkodare" /></a> </p>
+<p align="center"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://user-images.githubusercontent.com/14919667/213859861-1c1a34a4-e724-412a-9f23-0c8090f19413.png" alt="cjkodare" width="250px" /></a> </p>
 <p align="center"> <a href="https://www.linkedin.com/in/jonahandersson/" target="blank"> <img src="https://user-images.githubusercontent.com/14919667/199814903-f6bedfe8-9c03-46b8-9abc-897a46645089.png" alt="Jonah Andersson on LinkedIn" /></a> </p>
+
 
  
 - :woman_technologist: Currently working as Senior IT Consultant with diverse tech roles as Software Engineer, Azure Developer,  Cloud Infrastructure & DevOps Engineer in Sweden
@@ -88,10 +89,6 @@ Our <a href="[https://sessionize.com/azure-user-group-sweden-cfp](https://sessio
 <ul>
  <li>
   <a href="https://www.linkedin.com/pulse/importance-starting-your-why-my-reflective-insights-jonah-andersson/" target="_blank">The Importance of Starting with Your WHY: My Reflective Insights (LinkedIn Newsletter: Inspire Tech by Jonah Andersson)</a> </li>
-
- </li>
- </ul>
-<ul>
    <li> <a href="https://jonahandersson.tech/minimal-web-apis-in-net-and-azure-api-management-combined" target="_blank">Minimal Web APIs in .NET and Azure API Management Combined</a> </li>
   <li> <a href="https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/" target="blank">How I Passed Microsoft Certification AZ 204 Azure Developer Associate Exam</a> </li>
       <li> <a href="https://jonahandersson.tech/microsoft-mvp-award-passed-azure-certifications-and-personal-reflections-of-half-year-2021/" target="blank">Microsoft MVP Award, Passed Azure Certifications and Personal Reflections of Half Year 2021</a> </li>
