@@ -5,11 +5,12 @@
 <h4 align="center">I am a Microsoft MVP for Azure, Software Engineer/ Cloud Infrastructure & DevOps Engineer, Developer, Microsoft Certified Trainer <br> Tech Mentor, International Public Speaker, Author, Blogger, Inclusive Community Leader </h4>
 <h5 align="center">Genuine, Humble, Brave, Sincere </h5>
 
-<p align="center"> <a href="https://twitter.com/cjkodare" target="blank"><img src="https://user-images.githubusercontent.com/14919667/213859861-1c1a34a4-e724-412a-9f23-0c8090f19413.png" alt="cjkodare" width="250px" /></a> </p>
-<p align="center"> <a href="https://www.linkedin.com/in/jonahandersson/" target="blank"> <img src="https://user-images.githubusercontent.com/14919667/199814903-f6bedfe8-9c03-46b8-9abc-897a46645089.png" alt="Jonah Andersson on LinkedIn" /></a> </p>
+<p align="center"> <a href="https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/" target="_blank"><img src="https://user-images.githubusercontent.com/14919667/213861246-b05b7234-0215-46ea-bae5-b4a778c0d807.png" alt="Learning Microsoft Azure Book (Oreilly Media) by Jonah Carrio Andersson" width="250px" /></a> </p>
+<p align="center"> <a href="https://twitter.com/cjkodare" target="_blank"><img src="https://user-images.githubusercontent.com/14919667/213859861-1c1a34a4-e724-412a-9f23-0c8090f19413.png" alt="cjkodare" width="250px" /></a>
+ <a href="https://www.linkedin.com/in/jonahandersson/" target="_blank"> <img src="https://user-images.githubusercontent.com/14919667/199814903-f6bedfe8-9c03-46b8-9abc-897a46645089.png" alt="Jonah Andersson on LinkedIn" /></a>
+ </p>
 
 
- 
 - :woman_technologist: Currently working as Senior IT Consultant with diverse tech roles as Software Engineer, Azure Developer,  Cloud Infrastructure & DevOps Engineer in Sweden
 - 🔭 I’m currently working on different projects - at work, consulting job, and for the online tech community
 - 📖 I'm writing a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433). <br>
