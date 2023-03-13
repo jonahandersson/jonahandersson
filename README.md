@@ -2,9 +2,9 @@
 
 <p align="center"> <a href="https://www.jonahandersson.tech" target="blank"><img src="https://jonahsstorage.blob.core.windows.net/jcaphotos/Jonah%20Andersson%20Banner.png" width="50%" alt="jonahandersson-cover-page" /></a> </p>
 <h1 align="center">Hi, Hej, Kumusta! 👋 I'm Jonah 😊</h1>
-<h4 align="center">I am a Microsoft MVP for Azure, Software Engineer/ Cloud Infrastructure & DevOps Engineer, Developer, Microsoft Certified Trainer <br> Tech Mentor, International Public Speaker, Author, Blogger, Inclusive Community Leader </h4>
-<h5 align="center">Genuine, Humble, Brave, Sincere </h5>
-
+<h5 align="center">I am a Microsoft MVP for Azure, Software Engineer/ Cloud Infrastructure & DevOps Engineer, Developer, Microsoft Certified Trainer <br> Tech Mentor, International Public Speaker, Author, Blogger, Inclusive Community Leader </h5>
+<h5 align="center"> Genuine, Humble, Brave, Sincere </h5>
+<h5 align="center">I enjoy inspiring tech and what I do to others! 💖</h5>
 <p align="center"> <a href="https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/" target="_blank"><img src="https://user-images.githubusercontent.com/14919667/213861246-b05b7234-0215-46ea-bae5-b4a778c0d807.png" alt="Learning Microsoft Azure Book (Oreilly Media) by Jonah Carrio Andersson" width="150px" /></a> </p>
 <p align="center"> <a href="https://twitter.com/cjkodare" target="_blank"><img src="https://user-images.githubusercontent.com/14919667/213859861-1c1a34a4-e724-412a-9f23-0c8090f19413.png" alt="cjkodare" width="100px" /></a>
  <a href="https://www.linkedin.com/in/jonahandersson/" target="_blank"> <img src="https://user-images.githubusercontent.com/14919667/199814903-f6bedfe8-9c03-46b8-9abc-897a46645089.png" alt="Jonah Andersson on LinkedIn" /></a>
@@ -14,13 +14,13 @@
 - :woman_technologist: Currently working as Senior IT Consultant with diverse tech roles as Software Engineer, Azure Developer,  Cloud Infrastructure & DevOps Engineer in Sweden
 - 🔭 I’m currently working on different projects - at work, consulting job, my first tech book project, public speaking (Virtual and In-Person) and for the online tech community
 - 📖 I'm writing a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433). <br>
-Check out the first "raw and unedited" early release of my book [Learning Microsoft Azure](https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/)
+Check out the first "raw and unedited" early release of my book [Learning Microsoft Azure](https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/). Interested to read the manuscript and leave feedback/review? Please submit interest via this [form](https://bit.ly/learningmicrosoftazure-oreillymedia-book)
 - 👯 I inspire tech to others by mentoring others via [SheSharp](https://www.shesharp.co/mentorship-program/), [Ulap.org](https://www.ulap.org/jonah-anderssons-inspiring-tech-story-and-her-continuous-learning-continuous-development-cl-cd-with-microsoft-azure/), [BitProject.org](https://www.bitproject.org/serverless), DataTjej, Bron Innovation Guidance, and other private mentorship with other young women choosing a career in tech and software engineering! 
 - 🌱 I’m currently learning more about developing with .NET, Blazor, Serverless with Azure Functions, Microsoft Azure technologies, and preparing for my next Microsoft Certifications, <a href="https://docs.microsoft.com/en-us/certifications/exams/az-305" target="_blank">AZ-305 Designing Microsoft Azure Infrastructure Solutions </a>, <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500?WT.mc_id=AZ-MVP-5004251" target="blank"> AZ-500 Microsoft Azure Security Technologies </a>, etc. 
 - :woman_technologist: I'm the founder, organizer, and a community leader of [Azure User Group Sweden](https://www.meetup.com/azureusergroupsundsvallsverige). </br>
 Check out our Bi-weekly live meetups and learn about Azure, cloud technologies and the community!  </br>
-Our <a href="[https://sessionize.com/azure-user-group-sweden-cfp](https://sessionize.com/azure-user-group-sweden-cfp)" target="_blank">Call for Speakers at Sessionize</a>. 
-- 👯 I’m looking to collaborate on **anything about software engineering, cloud engineering with Microsoft Azure, public speaking, serverless with Azure, mentoring in tech, gender & diversity in tech**
+Our [Call for Speakers at Sessionize](https://sessionize.com/azure-user-group-sweden-cfp)
+- 👯 I’m looking to collaborate on **anything about software engineering, .NET, cloud engineering with Microsoft Azure, public speaking, serverless with Azure, mentoring in tech, gender & diversity in tech**
 - 📝 I write articles on [https://www.jonahandersson.tech](https://www.jonahandersson.tech)
 - 🎙️  I share knowledge about cloud computing and Azure through public speaking 
 - 💬 Ask me about programming in .NET, C#,Microsoft Azure, Mentoring, Blogging, Fullstack Development, DevOps Engineering, Infrastructure as Code (IaC), Agile System Development, starting up a community group, writing your first technical book, being resilient in life and being a woman in tech! 
