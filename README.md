@@ -1,15 +1,11 @@
 <div>
 
-<p align="center"> <a href="https://www.jonahandersson.tech" target="blank"><img src="https://jonahsstorage.blob.core.windows.net/jcaphotos/Jonah%20Andersson%20Banner.png" width="50%" alt="jonahandersson-cover-page" /></a> </p>
-<h1 align="center">Hi, Hej, Kumusta! 👋 I'm Jonah 😊</h1>
-<h5 align="center">I am a Microsoft MVP for Azure, Software Engineer/ Cloud Infrastructure & DevOps Engineer, Developer, Microsoft Certified Trainer <br> Tech Mentor, International Public Speaker, Author, Blogger, Inclusive Community Leader </h5>
-<h5 align="center"> Genuine, Humble, Brave, Sincere </h5>
-<h5 align="center">I enjoy inspiring tech and what I do to others! 💖</h5>
-<p align="center"> <a href="https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/" target="_blank"><img src="https://user-images.githubusercontent.com/14919667/213861246-b05b7234-0215-46ea-bae5-b4a778c0d807.png" alt="Learning Microsoft Azure Book (Oreilly Media) by Jonah Carrio Andersson" width="150px" /></a> </p>
-<p align="center"> <a href="https://twitter.com/cjkodare" target="_blank"><img src="https://user-images.githubusercontent.com/14919667/213859861-1c1a34a4-e724-412a-9f23-0c8090f19413.png" alt="cjkodare" width="100px" /></a>
- <a href="https://www.linkedin.com/in/jonahandersson/" target="_blank"> <img src="https://user-images.githubusercontent.com/14919667/199814903-f6bedfe8-9c03-46b8-9abc-897a46645089.png" alt="Jonah Andersson on LinkedIn" /></a>
- </p>
+<h1 align="center">Hi, Hej, Kumusta! 👋 I'm Jonah Andersson </h1>
 
+<p align="center"> Thank you for visiting my GitHub profile 😊 </p>
+<p align="center">I am a Microsoft MVP for Azure, Software Engineer/ Cloud Infrastructure & DevOps Engineer, Developer, Microsoft Certified Trainer <br> Tech Mentor, International Public Speaker, Author, Blogger, Inclusive Community Leader </p >
+<h5 align="center"> I am Genuine, Humble, Brave, Sincere </h5>
+<h5 align="center">I enjoy inspiring tech and what I do to others! 💖</h5>
 
 - :woman_technologist: Currently working as Senior IT Consultant with diverse tech roles as Software Engineer, Azure Developer,  Cloud Infrastructure & DevOps Engineer in Sweden
 - 🔭 I’m currently working on different projects - at work, consulting job, my first tech book project, public speaking (Virtual and In-Person) and for the online tech community
@@ -27,6 +23,12 @@ Our [Call for Speakers at Sessionize](https://sessionize.com/azure-user-group-sw
 - 📫 Reach me by <a href="mailto:jonah@jonahandersson.tech">e-mail</a> or DM on [Twitter](https://www.twitter.com/cjkodare)
 - 📄 Know about my professional background on [https://www.linkedin.com/in/jonahandersson/](https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/)
 - 🎙️ Do you want me to speak at your conference, tech events or see my upcoming public speaking engagements? Check out my [Sessionize Speaker Profile](https://sessionize.com/jonah-andersson/)
+
+<p align="center"> <a href="https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/" target="_blank"><img src="https://user-images.githubusercontent.com/14919667/213861246-b05b7234-0215-46ea-bae5-b4a778c0d807.png" alt="Learning Microsoft Azure Book (Oreilly Media) by Jonah Carrio Andersson" width="150px" /></a> </p>
+<p align="center"> <a href="https://twitter.com/cjkodare" target="_blank"><img src="https://user-images.githubusercontent.com/14919667/213859861-1c1a34a4-e724-412a-9f23-0c8090f19413.png" alt="cjkodare" width="100px" /></a>
+ <a href="https://www.linkedin.com/in/jonahandersson/" target="_blank"> <img src="https://user-images.githubusercontent.com/14919667/199814903-f6bedfe8-9c03-46b8-9abc-897a46645089.png" alt="Jonah Andersson on LinkedIn" /></a>
+ </p>
+
 
 <h3 align="left">Let's connect!:</h3>
 <p align="left">
@@ -63,16 +65,15 @@ Our [Call for Speakers at Sessionize](https://sessionize.com/azure-user-group-sw
     
  <br>
   
-  <a href="https://www.jonahandersson.tech" width="150px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/NordicWomenAwardsNominee.png" width="150px" alt="jonahandersson" /></a>
-    <a href="https://www.jonahandersson.tech" width="150px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/nordicwomenintechawards_rolemodel.png" width="150px" alt="jonahandersson-womenintech-role-model" /></a>
-   <a href="https://www.jonahandersson.tech" width="150px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/NordicWomenInTechAwards2022Nominee-150x150.png" width="150px" alt="jonahandersson-womenintech-awards-nominee-2022" /></a>
-   <a href="https://www.jonahandersson.tech" width="150px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/NordicWomenInTechRoleModel.png" width="150px" alt="jonahandersson-womenintech-role-model-2022" /></a>
-  <br>
-   <a href="https://www.credential.net/profile/jonahandersson969104/wallet" width="150px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/CloudChampionBadge-150x150.png" width="150px" alt="jonahandersson" /></a> 
+  <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/NordicWomenAwardsNominee.png" width="100px" alt="jonahandersson" /></a>
+    <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/nordicwomenintechawards_rolemodel.png" width="100px" alt="jonahandersson-womenintech-role-model" /></a>
+   <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/NordicWomenInTechAwards2022Nominee-150x150.png" width="100px" alt="jonahandersson-womenintech-awards-nominee-2022" /></a>
+   <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/NordicWomenInTechRoleModel.png" width="100px" alt="jonahandersson-womenintech-role-model-2022" /></a>
+   <a href="https://www.credential.net/profile/jonahandersson969104/wallet" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/CloudChampionBadge-150x150.png" width="100px" alt="jonahandersson" /></a> 
       <a href="https://www.jonahandersson.tech" width="150px" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/c29c7aef-da17-43ca-8c35-2778df197480/Hack-credly-badges-600px-participant.png" width="100px" alt="jonahandersson-global-hackaton-participant-2022" /></a>
-        <a href="https://www.credly.com/badges/0f71d089-af09-4b0b-adf3-8337d885aa97" width="150px" target="blank"><img align="center" src="https://azdurablefunctionstorage.blob.core.windows.net/blogcontent/MCT-Microsoft_Certified_Trainer-150x150.png" width="150px" alt="jonahandersson" /></a>
-     <a href="https://www.jonahandersson.tech" width="150px" target="blank">
-       <img align="center" src="https://jonahsstorage.blob.core.windows.net/jcaphotos/microsoft-certified-trainer-2022-2023%20(1).png" width="150px" alt="jonahandersson-nordic-womenintech-2022" /></a>        
+        <a href="https://www.credly.com/badges/0f71d089-af09-4b0b-adf3-8337d885aa97" width="100px" target="blank"><img align="center" src="https://azdurablefunctionstorage.blob.core.windows.net/blogcontent/MCT-Microsoft_Certified_Trainer-150x150.png" width="100px" alt="jonahandersson" /></a>
+     <a href="https://www.jonahandersson.tech" width="100px" target="blank">
+       <img align="center" src="https://jonahsstorage.blob.core.windows.net/jcaphotos/microsoft-certified-trainer-2022-2023%20(1).png" width="100px" alt="jonahandersson-nordic-womenintech-2022" /></a>        
    <br>
   <h3 align="left">AzureHeroes Badges</h3>
 <p align="left">
