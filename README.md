@@ -5,7 +5,7 @@
 <p align="center"> Thank you for visiting my GitHub profile 😊 </p>
 <p align="center">I am a Microsoft MVP for Azure, Software Engineer/ Cloud Infrastructure & DevOps Engineer, Developer, Microsoft Certified Trainer <br> Tech Mentor, International Public Speaker, Author, Blogger, Inclusive Community Leader </p >
 <h5 align="center"> I am Genuine, Humble, Brave, Sincere </h5>
-<h5 align="center">I enjoy inspiring tech and what I do to others! 💖</h5>
+<h5 align="center">I enjoy inspiring tech and what I do to help others in their tech journey! 💖</h5>
 
 - :woman_technologist: Currently working as Senior IT Consultant with diverse tech roles as Software Engineer, Developer, Cloud Infrastructure & DevOps Engineer focused expertise in Microsoft Azure, from Sweden
 - 🔭 I’m currently working on different projects - at work, consulting job, my first tech book project, public speaking (Virtual and In-Person) and for the online tech community
