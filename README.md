@@ -7,9 +7,9 @@
 <h5 align="center"> I am Genuine, Humble, Brave, Sincere </h5>
 <h5 align="center">I enjoy inspiring tech and what I do to others! 💖</h5>
 
-- :woman_technologist: Currently working as Senior IT Consultant with diverse tech roles as Software Engineer, Azure Developer,  Cloud Infrastructure & DevOps Engineer in Sweden
+- :woman_technologist: Currently working as Senior IT Consultant with diverse tech roles as Software Engineer, Developer, Cloud Infrastructure & DevOps Engineer focused expertise in Microsoft Azure, from Sweden
 - 🔭 I’m currently working on different projects - at work, consulting job, my first tech book project, public speaking (Virtual and In-Person) and for the online tech community
-- 📖 I'm writing a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433). <br>
+- 📖 I'm writing a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433). <br> PRE-ORDER on [Amazon](https://www.amazon.com/Learning-Microsoft-Azure/dp/1098113322)
 Check out the first "raw and unedited" early release of my book [Learning Microsoft Azure](https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/). Interested to read the manuscript and leave feedback/review? Please submit interest via this [form](https://bit.ly/learningmicrosoftazure-oreillymedia-book)
 - 👯 I inspire tech to others by mentoring others via [SheSharp](https://www.shesharp.co/mentorship-program/), [Ulap.org](https://www.ulap.org/jonah-anderssons-inspiring-tech-story-and-her-continuous-learning-continuous-development-cl-cd-with-microsoft-azure/), [BitProject.org](https://www.bitproject.org/serverless), DataTjej, Bron Innovation Guidance, and other private mentorship with other young women choosing a career in tech and software engineering! 
 - 🌱 I’m currently learning more about developing with .NET, Blazor, Serverless with Azure Functions, Microsoft Azure technologies, and preparing for my next Microsoft Certifications, <a href="https://docs.microsoft.com/en-us/certifications/exams/az-305" target="_blank">AZ-305 Designing Microsoft Azure Infrastructure Solutions </a>, <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500?WT.mc_id=AZ-MVP-5004251" target="blank"> AZ-500 Microsoft Azure Security Technologies </a>, etc. 
@@ -24,7 +24,7 @@ Our [Call for Speakers at Sessionize](https://sessionize.com/azure-user-group-sw
 - 📄 Know about my professional background on [https://www.linkedin.com/in/jonahandersson/](https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/)
 - 🎙️ Do you want me to speak at your conference, tech events or see my upcoming public speaking engagements? Check out my [Sessionize Speaker Profile](https://sessionize.com/jonah-andersson/)
 
-<p align="center"> <a href="https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/" target="_blank"><img src="https://user-images.githubusercontent.com/14919667/213861246-b05b7234-0215-46ea-bae5-b4a778c0d807.png" alt="Learning Microsoft Azure Book (Oreilly Media) by Jonah Carrio Andersson" width="150px" /></a> </p>
+<p align="center"> <a href="https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/" target="_blank"><img src="https://learning.oreilly.com/covers/urn:orm:book:9781098113315/400w/" alt="Learning Microsoft Azure Book (Oreilly Media) by Jonah Carrio Andersson" width="250px" /></a> </p>
 <p align="center"> <a href="https://twitter.com/cjkodare" target="_blank"><img src="https://user-images.githubusercontent.com/14919667/213859861-1c1a34a4-e724-412a-9f23-0c8090f19413.png" alt="cjkodare" width="100px" /></a>
  <a href="https://www.linkedin.com/in/jonahandersson/" target="_blank"> <img src="https://user-images.githubusercontent.com/14919667/199814903-f6bedfe8-9c03-46b8-9abc-897a46645089.png" alt="Jonah Andersson on LinkedIn" /></a>
  </p>
