@@ -92,8 +92,9 @@ Our [Call for Speakers at Sessionize](https://sessionize.com/azure-user-group-sw
   <br>
 <!-- BLOG-POST-LIST:START -->
 <ul>
- <li>
-  <a href="https://www.linkedin.com/pulse/importance-starting-your-why-my-reflective-insights-jonah-andersson/" target="_blank">The Importance of Starting with Your WHY: My Reflective Insights (LinkedIn Newsletter: Inspire Tech by Jonah Andersson)</a> </li>
+  <li> <a href="https://jonahandersson.tech/cloud-development-with-azure-developer-cli-azd/" target="_blank">Cloud Development with Azure Developer CLI (azd)</a> </li>
+ <li> <a href="https://jonahandersson.tech/minimal-web-apis-in-net-and-azure-api-management-combined" target="_blank"> Minimal Web APIs in .NET and Azure API Management Combined </a> </li>
+ <li>  <a href="https://www.linkedin.com/pulse/importance-starting-your-why-my-reflective-insights-jonah-andersson/" target="_blank">The Importance of Starting with Your WHY: My Reflective Insights (LinkedIn Newsletter: Inspire Tech by Jonah Andersson)</a> </li>
    <li> <a href="https://jonahandersson.tech/minimal-web-apis-in-net-and-azure-api-management-combined" target="_blank">Minimal Web APIs in .NET and Azure API Management Combined</a> </li>
   <li> <a href="https://jonahandersson.tech/how-i-passed-microsoft-certification-az-204-azure-developer-associate-exam/" target="blank">How I Passed Microsoft Certification AZ 204 Azure Developer Associate Exam</a> </li>
       <li> <a href="https://jonahandersson.tech/microsoft-mvp-award-passed-azure-certifications-and-personal-reflections-of-half-year-2021/" target="blank">Microsoft MVP Award, Passed Azure Certifications and Personal Reflections of Half Year 2021</a> </li>
