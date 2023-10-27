@@ -9,8 +9,9 @@
 
 - Currently working as Senior IT Consultant with diverse tech roles as Software Engineer, Developer, Cloud Infrastructure, Lead DevOps Engineer focused expertise in Microsoft Azure and .NET from Sweden
 - 🔭 I’m currently working on different projects - at work, consulting job, my first tech book project, public speaking (Virtual and In-Person) and for the online tech community
-- 📖 I'm writing a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433). 
-<br> - PRE-ORDER on [Amazon](https://www.amazon.com/Learning-Microsoft-Azure/dp/1098113322) 
+- 📖 I'm wrote a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433). 
+<br> - PRE-ORDER on [Amazon](https://www.amazon.com/Learning-Microsoft-Azure/dp/1098113322)
+<br> - Checkout its website on [LearningMicrosoftAzure.com](https://learningmicrosoftazure.com) 
 <br> -  Check out the first "raw and unedited" early release of my book [Learning Microsoft Azure](https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/). 
 <br> - Interested to read the manuscript and leave feedback/review? Please submit interest via this [form](https://bit.ly/learningmicrosoftazure-oreillymedia-book)
 - 👯 I inspire tech to others by mentoring others via [SheSharp](https://www.shesharp.co/mentorship-program/), [Ulap.org](https://www.ulap.org/jonah-anderssons-inspiring-tech-story-and-her-continuous-learning-continuous-development-cl-cd-with-microsoft-azure/), [BitProject.org](https://www.bitproject.org/serverless), DataTjej, Bron Innovation Guidance, and other private mentorship with other young women choosing a career in tech and software engineering! 
