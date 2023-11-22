@@ -3,11 +3,12 @@
 <h1 align="center">Hi, Hej, Kumusta! 👋 I'm Jonah Andersson </h1>
 
 <p align="center"> Thank you for visiting my GitHub profile 😊 </p>
-<p align="center">I am a Microsoft MVP for Azure, Software Engineer/ Cloud Infrastructure & DevOps Engineer, Developer, Microsoft Certified Trainer <br> Tech Mentor, International Public Speaker, Author, Blogger, Inclusive Community Leader </p >
+<p align="center">I am a Microsoft MVP for Azure, Developer, Cloud DevSecOps Engineer, Developer, Microsoft Certified Trainer <br> Tech Mentor, International Public Speaker, Author, Blogger, Inclusive Community Leader </p >
 <h5 align="center"> I am Genuine, Humble, Brave, Sincere </h5>
 <h5 align="center">I enjoy inspiring tech and what I do to help others in their tech journey! 💖</h5>
 
-- Currently working as Senior IT Consultant with diverse tech roles as Software Engineer, Developer, Cloud Infrastructure, Lead DevOps Engineer focused expertise in Microsoft Azure and .NET from Sweden
+- Currently working as Senior Azure Consultant/IT Consultant with diverse tech roles as Software Engineer, Developer, Cloud Infrastructure, Lead DevOps Engineer focused expertise in Microsoft Azure and .NET from Sweden
+- 💫 *Developer of the Year* at Nordic Women in Tech Awards 2023 
 - 🔭 I’m currently working on different projects - at work, consulting job, my first tech book project, public speaking (Virtual and In-Person) and for the online tech community
 - 📖 I'm wrote a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433). 
 <br> - PRE-ORDER on [Amazon](https://www.amazon.com/Learning-Microsoft-Azure/dp/1098113322)
@@ -28,7 +29,7 @@ Our [Call for Speakers at Sessionize](https://sessionize.com/azure-user-group-sw
 - 🎙️ Do you want me to speak at your conference, tech events or see my upcoming public speaking engagements? 
 <br> Check out my [Sessionize Speaker Profile](https://sessionize.com/jonah-andersson/)
 
-<p align="center"> <a href="https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/" target="_blank"><img src="https://github.com/jonahandersson/jonahandersson/assets/14919667/f41b1e3c-2c3f-47c0-a85f-5d945309177b" alt="Learning Microsoft Azure Book (Oreilly Media) by Jonah Carrio Andersson" width="250px" /></a> </p>
+<p align="center"> <a href="https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/" target="_blank"><img src="https://learningmi-580a9dd8d669a376807a-endpoint.azureedge.net/bloblearningmi5fee6d059a/wp-content/uploads/2023/11/Screenshot-2023-11-20-175935.png" alt="Learning Microsoft Azure Book (Oreilly Media) by Jonah Carrio Andersson" width="250px" /></a> </p>
 <p align="center"> <a href="https://twitter.com/cjkodare" target="_blank"><img src="https://user-images.githubusercontent.com/14919667/213859861-1c1a34a4-e724-412a-9f23-0c8090f19413.png" alt="cjkodare" width="100px" /></a>
  <a href="https://www.linkedin.com/in/jonahandersson/" target="_blank"> <img src="https://user-images.githubusercontent.com/14919667/199814903-f6bedfe8-9c03-46b8-9abc-897a46645089.png" alt="Jonah Andersson on LinkedIn" /></a>
  </p>
