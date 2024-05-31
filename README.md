@@ -61,7 +61,7 @@ Our [Call for Speakers at Sessionize](https://sessionize.com/azure-user-group-sw
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahandersson&show_icons=true&locale=en" alt="jonahandersson" /></p>  --->
 <br>  
   
-<h3 align="left">Awards, Recognitions and Certifications</h3>
+<!--<h3 align="left">Awards, Recognitions and Certifications</h3>
 <p align="left">
 <a href="https://www.credly.com/earner/earned/badge/2ffe5864-edc2-4566-8bda-708931851a4c" target="blank" ><img align="center" src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="150px" alt="jonahandersson" /></a>
   <a href="https://www.credly.com/badges/aba0a161-e5db-4212-aab9-724ffd5458ec" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-fundamentals-badge-transparent-150x150.png" width="150px" alt="jonahandersson" /></a>
@@ -89,7 +89,7 @@ Our [Call for Speakers at Sessionize](https://sessionize.com/azure-user-group-sw
   <img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/AzureHeroesCommunityHero.png" alt="jonahandersson" width="100" height="100"/>
   
   <p>Check out my other badges at <a href="https://www.azureheroes.community/user/15270" target="_blank">Azure Heroes Community Showcase - Jonah Andersson </a></p>
-<p>Learn more about <a href="https://www.microsoft.com/skills/azureheroes" target="blank">AzureHeroes</a> </p>
+<p>Learn more about <a href="https://www.microsoft.com/skills/azureheroes" target="blank">AzureHeroes</a> </p> --->
 
   <h3>Blogs Posts </h3> 
   <br>
