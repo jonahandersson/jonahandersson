@@ -61,36 +61,6 @@ Our [Call for Speakers at Sessionize](https://sessionize.com/azure-user-group-sw
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahandersson&show_icons=true&locale=en" alt="jonahandersson" /></p>  --->
 <br>  
   
-<h3 align="left">Awards, Recognitions and Certifications</h3>
-<p align="left">
-<a href="https://www.credly.com/earner/earned/badge/2ffe5864-edc2-4566-8bda-708931851a4c" target="blank" ><img align="center" src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="150px" alt="jonahandersson" /></a>
-  <a href="https://www.credly.com/badges/aba0a161-e5db-4212-aab9-724ffd5458ec" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-fundamentals-badge-transparent-150x150.png" width="150px" alt="jonahandersson" /></a>
-  <a href="https://www.credly.com/earner/earned/badge/2ffe5864-edc2-4566-8bda-708931851a4c" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="150px" alt="jonahandersson" /></a>
-   <a href="https://www.credly.com/badges/738932e0-fa15-48ea-bec3-ffa8207542e6" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/azure-developer-associate-JonahAndersson-150x150.png" width="150px" alt="jonahandersson" /></a>
-    <a href="https://www.credly.com/earner/earned/badge/7bbcc2a4-9d87-4fff-83a3-4c25f9fd8ef3" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="jonahandersson" width="150px" /></a>
-    
- <br>
-  
-  <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/NordicWomenAwardsNominee.png" width="100px" alt="jonahandersson" /></a>
-    <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/nordicwomenintechawards_rolemodel.png" width="100px" alt="jonahandersson-womenintech-role-model" /></a>
-   <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/NordicWomenInTechAwards2022Nominee-150x150.png" width="100px" alt="jonahandersson-womenintech-awards-nominee-2022" /></a>
-   <a href="https://www.jonahandersson.tech" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/NordicWomenInTechRoleModel.png" width="100px" alt="jonahandersson-womenintech-role-model-2022" /></a>
-   <a href="https://www.credential.net/profile/jonahandersson969104/wallet" width="100px" target="blank"><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/CloudChampionBadge-150x150.png" width="100px" alt="jonahandersson" /></a> 
-      <a href="https://www.jonahandersson.tech" width="150px" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/c29c7aef-da17-43ca-8c35-2778df197480/Hack-credly-badges-600px-participant.png" width="100px" alt="jonahandersson-global-hackaton-participant-2022" /></a>
-        <a href="https://www.credly.com/badges/0f71d089-af09-4b0b-adf3-8337d885aa97" width="100px" target="blank"><img align="center" src="https://images.credly.com/size/680x680/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png" width="100px" alt="jonahandersson" /></a>
-     <a href="https://www.jonahandersson.tech" width="100px" target="blank">
-       <img align="center" src="https://jonahsstorage.blob.core.windows.net/jcaphotos/microsoft-certified-trainer-2022-2023%20(1).png" width="100px" alt="jonahandersson-nordic-womenintech-2022" /></a>        
-   <br>
-  <h3 align="left">AzureHeroes Badges</h3>
-<p align="left">
-<img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgercontenthero.jpg" alt="jonahandersson" width="100" height="100"/>
-<img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerinclusiveleader.jpg" alt="jonahandersson" width="100" height="100"/>
-<img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgermentor.jpg" alt="jonahandersson" width="100" height="100"/><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerkudos.jpg" alt="jonahandersson" width="100" height="100"/><img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerlearner.jpg" alt="jonahandersson" width="100" height="100"/>
-  <img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/AzureHeroesCommunityHero.png" alt="jonahandersson" width="100" height="100"/>
-  
-  <p>Check out my other badges at <a href="https://www.azureheroes.community/user/15270" target="_blank">Azure Heroes Community Showcase - Jonah Andersson </a></p>
-<p>Learn more about <a href="https://www.microsoft.com/skills/azureheroes" target="blank">AzureHeroes</a> </p>
-
   <h3>Blogs Posts </h3> 
   <br>
 <!-- BLOG-POST-LIST:START -->
