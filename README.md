@@ -31,7 +31,7 @@ Our [Call for Speakers at Sessionize](https://sessionize.com/azure-user-group-sw
 - 🎙️ Do you want me to speak at your conference, tech events or see my upcoming public speaking engagements? 
 <br> Check out my [Sessionize Speaker Profile](https://sessionize.com/jonah-andersson/)
 
-<p align="center"> <a href="https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/" target="_blank"><img src="https://learningmi-580a9dd8d669a376807a-endpoint.azureedge.net/bloblearningmi5fee6d059a/wp-content/uploads/2023/11/Screenshot-2023-11-20-175935.png" alt="Learning Microsoft Azure Book (Oreilly Media) by Jonah Carrio Andersson" width="250px" /></a> </p>
+<p align="center"> <a href="https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/" target="_blank"><img src="https://learning.oreilly.com/covers/urn:orm:book:9781098113315/400w/" alt="Learning Microsoft Azure Book (Oreilly Media) by Jonah Carrio Andersson" width="250px" /></a> </p>
 <p align="center"> <a href="https://twitter.com/cjkodare" target="_blank"><img src="https://user-images.githubusercontent.com/14919667/213859861-1c1a34a4-e724-412a-9f23-0c8090f19413.png" alt="cjkodare" width="100px" /></a>
  <a href="https://www.linkedin.com/in/jonahandersson/" target="_blank"> <img src="https://user-images.githubusercontent.com/14919667/199814903-f6bedfe8-9c03-46b8-9abc-897a46645089.png" alt="Jonah Andersson on LinkedIn" /></a>
  </p>
