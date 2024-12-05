@@ -49,8 +49,6 @@ Our [Call for Speakers at Sessionize](https://sessionize.com/azure-user-group-sw
 <h3 align="left">Technology, Programming Languages and Tools:</h3>
 
 <p align="left"> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="azure" width="40" height="40"/> </a> 
-</a> <a href="https://docs.microsoft.com/en-us/azure/developer/terraform/overview?WT.mc_id=AZ-MVP-5004251" target="_blank"> <img src="https://jonahsstorage.blob.core.windows.net/jcaphotos/terraform-icon-svgrepo-com.svg" alt="azure" width="40" height="40"/> </a>
- <a href="https://www.jonahandersson.tech" target="_blank"> <img src="https://jonahsstorage.blob.core.windows.net/jcaphotos/azure-devops-svgrepo-com.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank">
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
