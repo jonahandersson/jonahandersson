@@ -10,7 +10,7 @@
 - Currently working as Senior Azure Consultant/IT Consultant @Solidify Sweden with diverse tech roles as Software Engineer, Developer, Cloud Infrastructure, Lead DevOps Engineer focused expertise in Microsoft Azure and .NET from Sweden
 - 💫 Award *Developer of the Year*  at Nordic Women in Tech Awards 2023
 - 💫 Award *Developer of the Year* / *Årets Utvecklare* at Developers Day (Sweden) 2024
-- 🌟 Microsoft Certified Trainer (MCT), MCT Regional Lead 2024 for Sweden
+- 🌟 Microsoft Certified Trainer (MCT), MCT Community Lead for Sweden
 - 🔭 I’m currently working on different projects - at work, consulting job, my first tech book project, public speaking (Virtual and In-Person) and for the online tech community
 - 📖 I'm wrote a book about [Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=AZ-MVP-5004251) with [Oreilly Media](https://www.oreilly.com/pub/au/8433). 
 <br> - ORDER Learning Microsoft Azure: Cloud Computing and Development Fundamentals (O'Reilly) on [Amazon](https://www.amazon.com/Learning-Microsoft-Azure/dp/1098113322)
