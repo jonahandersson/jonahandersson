@@ -9,14 +9,9 @@
 <p align="center">
   <img src="https://tse3.mm.bing.net/th/id/OIP.3wst1_RnHPAG5GNuFlpDewHaNK?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Jonah Andersson with Learning Microsoft Azure book" width="220" />
 </p>
-
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D12AQGOXkzdA7JmIQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1735660876224?e=2147483647&v=beta&t=itPTZEuXYdA1r8iCQOpm-ilchvW8XxTRrgleJlK-KFw" alt="Jonah Andersson article cover" width="460" />
-</p>
-
-<p align="center">
-  <a href="https://www.learningmicrosoftazure.com" target="_blank">
-    <img src="https://img.shields.io/badge/Book-Learning%20Microsoft%20Azure-0A66C2?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Learning Microsoft Azure" />
+ <img src="https://learningmicrosoftazure.com/assets/book-2nd-edition-luVJGTAI.webp" alt="Learning Microsoft Azure: Cloud Computing and Development Fundamentals book by Jonah Andersson" width="220" href="https://learningmicrosoftazure.com/" />
+  </p>
   </a>
   <a href="https://www.jonahandersson.tech" target="_blank">
     <img src="https://img.shields.io/badge/Website-Jonah%20Andersson%20Tech-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Jonah Andersson Tech" />
